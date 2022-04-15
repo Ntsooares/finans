@@ -1,0 +1,26 @@
+#home{
+    background: #ffc107 ;
+    color: white ;
+}
+
+strong{
+    color: #ffc107;
+}
+
+h4{
+    text-align: center;
+}
+
+.caixa{
+    padding: 60px 0;
+    border-bottom: 1px solid #e5e5e5 ;
+}
+
+footer p a{
+    margin: 5px 15px;
+    text-decoration: none;
+    color: black;
+    font-size: small;
+    
+
+}
